@@ -1,0 +1,12 @@
+{
+  "jump": "sound/sfx/jump.wav",
+  "land": "sound/sfx/land.wav",
+  "walk": "sound/sfx/walk.wav",
+  "knock": "sound/sfx/knock.wav",
+  "lose": "sound/sfx/lose.wav",
+  "coin": "sound/sfx/coin.wav",
+
+  "intro": "sound/music/intro.mp3",
+  "music1": "sound/music/music1.mp3",
+  "music2": "sound/music/music2.mp3"
+}

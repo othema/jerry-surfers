@@ -1,0 +1,16 @@
+{
+  "window_size": [800, 600],
+  "window_caption": "Tom and Meraj",
+  "fps": 90,
+
+  "jerry_walk_img": "img/jerry_walk.png",
+  "jerry_jump_img": "img/jerry_jump.png",
+  "jerry_touchdown_img": "img/jerry_touchdown.png",
+  "tom_walk_img": "img/tom_walk.png",
+  "heart_img": "img/hearts.png",
+
+  "obstacle_img": "img/obstacles.png",
+  "coin_img": "img/coin.png",
+
+  "font": "fonts/press_start.ttf"
+}
